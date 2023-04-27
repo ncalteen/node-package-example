@@ -1,0 +1,17 @@
+{
+  "name": "npm-example",
+  "version": "1.0.0",
+  "description": "An example NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Nick Alteen <ncalteen@github.com>",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://ncalteen.jfrog.io/artifactory/api/npm/npm/"
+  }
+}
