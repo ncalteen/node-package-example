@@ -10,5 +10,8 @@
     "demo"
   ],
   "author": "Nick Alteen <ncalteen@github.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.4"
+  }
 }
