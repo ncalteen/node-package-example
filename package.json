@@ -1,6 +1,6 @@
 {
-  "name": "npm-example",
-  "version": "1.0.0",
+  "name": "@ncalteen-migrations/npm-scoped-example",
+  "version": "5.0.0",
   "description": "An example NPM package",
   "main": "index.js",
   "scripts": {
