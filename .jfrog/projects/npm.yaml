@@ -2,7 +2,7 @@ version: 1
 type: npm
 resolver:
   repo: npm
-  serverId: ncalteengithub
+  serverId: ncalteengithubdemo
 deployer:
   repo: npm
-  serverId: ncalteengithub
+  serverId: ncalteengithubdemo

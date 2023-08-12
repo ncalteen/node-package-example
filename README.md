@@ -1,3 +1,8 @@
 # NPM Example Package
 
-This package does nothing...
+Follow the instructions in the Artifactory setup UI to connect to the NPM
+registry.
+
+```bash
+npm publish
+```
